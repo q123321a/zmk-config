@@ -13,6 +13,6 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: bluemicro840_v1
     shield: m60
 
